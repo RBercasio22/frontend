@@ -24,6 +24,11 @@
   </div>
 
 </template>
+<script>
+  //https://vuejs.org/api/built-in-directives
+
+
+</script>
 
 <style>
 * {
@@ -183,6 +188,8 @@
   }
   
 }
+
+  
 </style>
 
 
